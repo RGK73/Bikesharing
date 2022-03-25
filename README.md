@@ -11,9 +11,9 @@ After doing the necassary conversion of trip duration in the jupyter notebook as
 
 ![tripduration](https://github.com/RGK73/Bikesharing/blob/main/NYC_Citibike_Challenge.png)
 
-And finally, we’ll add these new visualizations to our final presentation and analysis to pitch to investors. The link to the story is below:
+#### And finally, we’ll add these new visualizations to our final presentation and analysis to pitch to investors. The link to the story is below:
 
-[a link : NYC Citibike Story](https://public.tableau.com/views/NYC_Citibike_Challenge_16476059370490/NYCCitibikeAnalysisStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- [a link : NYC Citibike Story](https://public.tableau.com/views/NYC_Citibike_Challenge_16476059370490/NYCCitibikeAnalysisStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 Some of the snapshoits of the visualization:
 
